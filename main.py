@@ -112,7 +112,7 @@ while space_exist():
     #
     if won:
         # TODO
-
+        result = "*** Congratulations!, you won! ***"
         break
     elif computer_move()[1]:
         result = '=== You lose ! =='
